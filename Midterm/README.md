@@ -35,7 +35,7 @@ Through our research, we hope to see if there is a relationship between US state
 The hate crime data had a few key pieces of interesting outputs. I was looking for states that either stood out for one of the variables or correlated with each of the hate crime averages and median income. The District of Columbia was a standout in the average hate crime data, as it was more than two times the value of the next highest value for average hate crimes.  Mississippi also seemed like it would be a notable state as it had the lowest average income, but it also had a low rate of hate crime. Michigan and North Dakota also seem to be two other states to look into over, as they both had relatively low incomes and high crime rates.  
 
 Elementary and secondary education spending seems to steadily increase over the years from 1997 to 2016. Higher education spending seems to increase slightly from 1997-2016.
-But, US spending on kids in general seems to plateau from 2009 to 2016. This may be related to the 2008 recession.
+But, US spending on education in general seems to plateau from 2009 to 2016. This may be related to the 2008 recession.
 
 For elementary and secondary education spending per child averaged over 1997 to 2016, the top 5 states are District of Columbia, New York, New Jersey, Alaska, and Vermont. When analyzing higher education spending per state averaged over 1997 to 2016, the top 5 states that the US spends the most per child is Wyoming, New Mexico, Alaska, North Dakota, and Hawaii.
 
