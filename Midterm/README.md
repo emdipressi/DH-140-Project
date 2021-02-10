@@ -47,7 +47,9 @@ Our findings for these two states were very surprising and seem to indicate that
  ## Links
  
  [Midterm Presentation Slides](https://docs.google.com/presentation/d/1EBEYGuDnm3HbuxqvByb8BD9RAGv_NDOH88hgNB0CU8U/edit?usp=sharing)
+ 
  [Emily's Jupyter Notebook](https://github.com/emdipressi/DH-140-Project/blob/main/Midterm/Midterm%20--%20Emily%20DiPressi%20(1).ipynb)
+ 
  [Tiffany's Jupyter Notebook](https://github.com/emdipressi/DH-140-Project/blob/main/Midterm/Tiffany%20Feng%20-%20Midterm.ipynb)
  
  
