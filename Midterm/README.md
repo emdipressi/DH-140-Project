@@ -1,9 +1,8 @@
 # Midterm 
 
-## Emily DiPressi and Tiffany Feng 
+### Emily DiPressi and Tiffany Feng 
 
-## Updated Proposal 
-
+### Updated Proposal 
 
 ## Topic: Inefficient Government Spending on Children and Crime
 
