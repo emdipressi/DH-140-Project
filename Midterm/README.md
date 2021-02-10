@@ -44,6 +44,11 @@ Through the analysis of our data, we found that the District of Columbia stood o
 
 Our findings for these two states were very surprising and seem to indicate that spending more on education leads to higher hate crime rates. We plan to investigate this relationship further to see if the two are correlated.
  
+ ## Links
+ 
+ [Midterm Presentation Slides](https://docs.google.com/presentation/d/1EBEYGuDnm3HbuxqvByb8BD9RAGv_NDOH88hgNB0CU8U/edit?usp=sharing)
+ [Emily's Jupyter Notebook](https://github.com/emdipressi/DH-140-Project/blob/main/Midterm/Midterm%20--%20Emily%20DiPressi%20(1).ipynb)
+ [Tiffany's Jupyter Notebook](https://github.com/emdipressi/DH-140-Project/blob/main/Midterm/Tiffany%20Feng%20-%20Midterm.ipynb)
  
  
 
